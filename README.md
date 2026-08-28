@@ -54,4 +54,4 @@ We learned a lot about prompt engineering for structured JSON output from LLMs, 
 
 ## Team
 
-Built by a 5-person team in 24 hours, including Vijayanidhi Pillai.
+Built by a 5-person team in 24 hours, including Vijayanidhi Vidhiventhan Pillai.
